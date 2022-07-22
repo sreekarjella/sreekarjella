@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreekarjella
 - 👀 I’m interested in Full Stack Web development
 - 🌱 I’m currently learning ReactJS & React Native
-<! --- 💞️ I’m looking to work with a good company --->
+<!--- 💞️ I’m looking to work with a good company --->
 - 📫 How to reach me: sreekarjella@gmail.com
 
 <!---
